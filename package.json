@@ -1,0 +1,11 @@
+{
+  "name": "itg-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Port of Sublime's itg-light-theme to Atom.",
+  "repository": "https://github.com/atom/itg-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
