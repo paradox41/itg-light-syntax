@@ -8,6 +8,8 @@ All credit goes to [@itsthatguy](http://github.com/itsthatguy).
 
 [Sublime version](https://github.com/itsthatguy/theme-itg-flat)
 
+There is now a port of the UI theme itself, you can check that out [here](https://github.com/aesarius/itg-light-ui).
+
 ## Installation
 
 `apm install itg-dark-syntax` or through the package manager
